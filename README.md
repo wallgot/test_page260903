@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Daily AI React Landing Page
 
 기존 HTML/CSS/JavaScript 랜딩페이지를 React + Vite로 변환한 실습 프로젝트입니다.
@@ -92,3 +93,6 @@ package.json     실행 및 빌드 명령
 ## GitHub Pages로 배포하기
 
 GitHub 저장소의 **Settings > Pages**에서 배포 방법을 **GitHub Actions**로 선택하면 됩니다. Vite 앱을 Pages에 배포하려면 `vite.config.js`의 `base`를 저장소 이름에 맞춰 설정하고, GitHub Actions 워크플로를 추가하는 과정이 필요합니다. 우선 위의 GitHub 업로드와 `npm.cmd run build`를 성공시킨 뒤 배포를 진행하세요.
+=======
+# test_page260903
+>>>>>>> 03558a52983451cdec0b93a9cf1cfa9dea2e72ff
