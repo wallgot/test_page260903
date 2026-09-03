@@ -1,0 +1,8 @@
+cd c:\KIMJINGYU\01_html_copliot\daily-ai-landing-page
+
+git init
+git add .
+git commit -m "Convert landing page to React"
+git branch -M main
+git remote add origin https://github.com/wallgot/test_page260903.git
+git push -u origin main
